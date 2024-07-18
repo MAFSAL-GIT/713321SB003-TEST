@@ -1,0 +1,42 @@
+.header{
+    padding: 60px;
+    background-size: contain;
+    background-color:rgb(69, 199, 243);
+    background-image: url(Images/2.jpeg);
+    background-repeat: no-repeat;
+    background-size:auto;
+    background-blend-mode:multiply;
+    background-position: center;
+}
+.header a{
+    float: left;
+    text-align: center;
+    padding-right: 10x;
+    font-size: 17px;
+    border-radius: 10px;
+    margin-left: 0px;
+    margin-right: 5px;
+    text-decoration: none;
+}
+.header a:hover{
+    background-color:rgb(182, 233, 193);
+    color: black;
+}
+.header a.active{
+    background-color:rgb(222, 214, 112);
+    color: white;
+    padding: 14px;
+}
+.content{
+    background-color: rgb(225, 226, 228);
+    padding: 50px;
+}
+.img{
+    image-resolution: 50px;
+}
+.footer{
+    padding: 20px;
+    background-color: rgb(187, 166, 166);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

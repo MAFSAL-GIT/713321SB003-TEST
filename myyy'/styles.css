@@ -1,0 +1,15 @@
+body {
+    padding-top: 56px;
+    background-color: rgb(240, 240, 235);
+}
+
+.footer {
+    background-color: rgb(242, 210, 163);
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 10px;
+}
